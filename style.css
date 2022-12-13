@@ -1,0 +1,70 @@
+.wraper{
+    width: 800px;
+    margin: 0 auto;
+    border-radius: 5%;
+    font-size:40px;
+    text-align: center;
+}
+#username{
+    width: 48%;
+    height: 53px;
+    text-align: center;
+    margin-top: 10px;
+}
+#userwinner{
+    width: 150px;
+    height: 50px;
+    margin-left: 120px;
+    margin-top:2%;
+    text-align: center;
+    background-color: rgba(185, 240, 47, 0.705);
+    border-radius: 30%;
+}
+#uservalue{
+    width: 70px;
+    height: 70px;
+    margin-left: 20%;
+    margin-top: 55px;
+    text-align: center;
+    background-color: rgba(83, 154, 198, 0.705);
+    border-radius: 100%;
+
+}
+#play{
+    width:200px;
+    height: 50px;
+    position:absolute;
+    left: 43%;
+    bottom: 50%;
+    font-size:30px;
+    border-radius: 40%;
+    border-color:  rgba(83, 154, 198, 0.705);
+    background-color: rgba(185, 240, 47, 0.705);
+}
+#computername{
+    width: auto;
+    height: 124px;
+    position: absolute;
+    left: 56%;
+    bottom: 77%;
+    text-align: center;
+}
+#computerwinner{
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    left: 57%;
+    bottom: 82.9%;
+    background-color: rgba(185, 240, 47, 0.705);
+    border-radius: 30%;
+}
+#computervalue{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    left: 60%;
+    bottom: 66.2%;
+    background-color: rgba(83, 154, 198, 0.705);
+    border-radius: 100%;
+}
+
